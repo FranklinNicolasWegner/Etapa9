@@ -1,0 +1,16 @@
+#btnVoltar{
+    position: relative;
+    left: 104px;
+    top: 20px;
+
+}
+
+#tabela{
+    position: relative;
+    top: 50px;
+}
+
+.menuAdicionar{
+    position: relative;
+    top: 20px;
+}
